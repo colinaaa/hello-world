@@ -1,3 +1,6 @@
 [submodule "hello-c"]
 	path = hello-c
 	url = git@github.com:colinaaa/hello-c.git
+[submodule "hello-graphql"]
+	path = hello-graphql
+	url = git@github.com:colinaaa/hello-graphql.git
