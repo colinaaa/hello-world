@@ -1,0 +1,3 @@
+[submodule "hello-c"]
+	path = hello-c
+	url = git@github.com:colinaaa/hello-c.git
