@@ -4,3 +4,6 @@
 [submodule "hello-graphql"]
 	path = hello-graphql
 	url = git@github.com:colinaaa/hello-graphql.git
+[submodule "hello-cxx"]
+	path = hello-cxx
+	url = /home/colin/Applications/hellocpp/.git
